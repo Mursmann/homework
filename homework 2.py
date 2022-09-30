@@ -8,4 +8,4 @@ time = datetime.now()
 correct_time = time.strftime('%H:%M:%S')
 #output
 print('Astazi e data de: ', correct_date)
-print('Este ora: ', correct_time)
+print('Este ora: ', correct_time )
